@@ -4,7 +4,7 @@ You assume the role of Fleet Admiral Reinhard von Lohengramm, leading the Galact
 Create a script using OpenCV and Pillow, utilizing some clever image recognition and manipulation techniques to stitch together these fragmented parts to reveal the secret message!
 
 ## Overview
-The assets folder on this repository has a bunch of images, each of dimensions 512x512 pixels. They are composed of a white background with a **singular** coloured dot on them. The images are named with a number indicating their order in the sequence. 
+The assets folder in this repository has a bunch of images, each of dimensions 512x512 pixels. Each one is composed of a white background with a **singular** coloured dot on it. The images are named with a number indicating their order in the sequence. 
 
 There are also few images which are completely white, the importance of these will be discussed further down.
 
@@ -17,4 +17,4 @@ There are also few images which are completely white, the importance of these wi
 
 ## Resources
 * [OpenCV](https://docs.opencv.org/4.x/)
-* [Pillow](https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html/)
+* [Pillow](https://pillow.readthedocs.io/en/stable/reference/ImageDraw.html)
